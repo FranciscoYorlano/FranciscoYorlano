@@ -1,30 +1,38 @@
-### Hola a todos! Mi nombre es Fran 👋
+## ❓ Who I am?
+My name is Francisco, I'm from Buenos Aires, Argentina, and I'm a back-end developer. I consider myself highly resourceful and analytical, even in high-pressure situations. I'm a good leader and an excellent project and business manager, skills I apply daily in my role as a developer.
 
-## About me
-❓ My name is Francisco, I'm from Buenos Aires, Argentina, and I'm a Full Stack Developer.
+💻 What technologies/tools do I have experience with?
+I have over a year of experience working with Node.js, TypeScript, Express.js, and both relational and non-relational databases (PostgreSQL and MongoDB). I apply my knowledge to design, develop, and maintain complex REST APIs for various projects, both in monolithic and microservices architectures.
 
-💻 I've been programming since 2020, although I made the decision to focus my professional career on the tech industry in 2022. The advanced tools I work with include JavaScript, TypeScript, Python, React, NodeJs, PostgreSQL, and SCRUM. However, I am willing to learn any new tool. I consider myself very resourceful and analytical, even in high-pressure situations. I'm a good leader and an excellent project and business manager. I solve problems through clean and organized code, following SOLID principles and utilizing tools like eslint, git, prettier, standars commits, etc. My English level is currently B2 and I'm in the process of improving it.
+Other tools and technologies I'm experienced with include Docker, Docker-Compose, microservices architecture, unit testing, API authentication and authorization using JWT, Git, Github, Linux, and SCRUM. I also have experience working with React as a front-end framework and have completed some projects in Python.
 
-🔙 I have an important background as a student of Industrial Engineering (25% of the degree completed). It has provided me with essential tools such as advanced mathematical analysis and problem-solving skills. I co-founded and was the director of Rigs La Plata for 14 months, a company dedicated to crypto mining and related financial products. During that time, we successfully sold products worth over $500,000 and I managed a team of 9 people across 3 offices/facilities. I acquired crucial skills in leadership, business development, strategic management, marketing, client and investor communication, finance, budgeting, and accounting.
+My English proficiency is currently at a B2 level and is in the process of improvement.
 
-✅ I can work in both backend and frontend positions. In addition, I have experience in creating modern, intuitive, and fully responsive interfaces using TailwindCSS, SASS, CSS3, and Bootstrap, always emphasizing the UX.
+🔙 What is my background?
+I started programming as a hobby in 2020 while studying Industrial Engineering (30% of the program completed).
 
-❕ I am currently seeking opportunities to apply my skills and knowledge in a Full Stack Development or similar role, where I can continue to grow professionally and contribute to the company's success. If you are looking for a passionate, entrepreneurial, committed, and highly motivated candidate, please feel free to contact me.
+In 2021, I decided to leave engineering to develop a business opportunity I saw in cryptocurrency mining. I founded Rigs La Plata, which generated sales of over $500,000 USD and employed up to 9 people across three offices/facilities.
 
-You can see the quality of my projects in my highlighted posts ☺️
+In September 2022, I made the decision to close my company due to market conditions and turned my career towards programming. I studied full-stack development at Soy Henry.
 
-## Acerca de mi
-❓Mi nombre es Francisco, soy de Buenos Aires, Argentina y soy Full Stack Developer.
+Through projects, jobs, hours of study, and development, I have solidified and expanded my knowledge, bringing my professional profile into the exciting world of back-end development. Here, I can combine my passion for technology with my passion for business.
 
-💻 Programo desde 2020 aunque tome la decisión de guiar mi carrera profesional hacia lo tech en 2022. Las herramientas que manejo de forma avanzada son: JavaScript, TypeScript, Python, React, NodeJs, PostgreSQL y SCRUM. Aunque estoy dispuesto a aprender cualquier herramienta. Me considero muy resolutivo y analítico, incluso en situaciones de alta presión, soy buen líder y excelente gestor de proyectos y negocios. Resuelvo problemas a través de código limpio y prolijo, siguiendo principios SOLID y haciendo uso de eslint, git, prettier, standars commits, etc. Mi nivel de inglés es actualmente B2 y está en proceso de mejora.
 
-🔙 Importante background como estudiante de Ingeniería Industrial (25% de la carrera aprobada), me dio herramientas esenciales como análisis matemático avanzado y resolución de problemas complejos. Funde y fui director de Rigs La Plata por 14 meses, empresa dedicada a la cripto minería y productos financieros relacionados, llegando a vender productos por más de 500.000 USD y teniendo 9 personas a mi cargo en más de 3 oficinas / instalaciones. Allí aprendí herramientas fundamentales como liderazgo, armado de negocios, dirección estratégica, comercialización y comunicación con clientes e inversores, finanzas, presupuestos y contabilidad.
+## ❓ ¿Quién soy?
+Mi nombre es Fran, soy de Buenos Aires, Argentina y soy back end developer. Me considero muy resolutivo y analítico, incluso en situaciones de alta presión, soy buen líder y excelente gestor de proyectos y negocios lo que aplico día a día en mis proyectos como developer.
 
-✅ Me puedo desarrollar tanto en puestos backend como en puestos frontend donde además tengo experiencia en creación de interfaces modernas, intuitivas y full responsive con TailwindCSS, SASS, CSS3 y Bootstrap, haciendo siempre hincapié en la UX.
+💻 ¿En qué tecnologías / herramientas tengo experiencia?
+Más de un año de experiencia trabajando con NodeJs, TypeScript, ExpressJs, bases de datos relacionales y no relacionales (PostgreSQL y MongoDB), aplicando mis conocimientos para diseñar, desarrollar y mantener APIs REST complejas para diferentes proyectos, tanto en arquitecturas monolíticas como de microservicios.
 
-❕ Estoy buscando oportunidades para aplicar mis habilidades y conocimientos en un entorno de
-Full Stack Development o similar, donde pueda seguir creciendo profesionalmente y contribuir al
-éxito de la empresa. Si está buscando a un candidato apasionado, emprendedor, comprometido
-y altamente motivado, no dude en ponerse en contacto conmigo.
+Otras herramientas y tecnologías en las que tengo experiencia son: Docker, Docker-Compose, arquitectura de microservicios, unit testing, autenticación y autorización de APIs mediante JWT, Git, Github, Linux y SCRUM. Experiencia trabajando con React como framework front end. Y algunos proyectos realizados en Python.
 
-Podes ver la calidad de mis proyectos en mis posts destacados ☺️
+Mi nivel de inglés es actualmente B2 y está en proceso de mejora.
+
+🔙 ¿Cuál es mi background?
+Programo desde 2020 como hobbie, mientras estudiaba la carrera de Ingeniero Industrial (30% de la carrera aprobada).
+
+En el año 2021 decidí dejar ingeniería para dedicarme a una oportunidad de negocio que vi en la cripto minería y funde Rigs La Plata, llegando a vender productos por más de 500.000 USD y teniendo hasta 9 personas a mi cargo en más de 3 oficinas / instalaciones.
+
+Para septiembre de 2022 tomé la decisión de cerrar mi empresa debido a la situación del mercado y decidí tornar mi carrera hacia la programación. Estudie programación full stack en Soy Henry.
+
+Gracias a proyectos, trabajos, horas de estudio y desarrollo consolide y amplie mis conocimientos llevando mi perfil profesional al apasionante mundo de desarrollo back end, donde puedo combinar mi pasión por la tecnología con mi pasión por los negocios.
